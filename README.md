@@ -1,3 +1,5 @@
+
+
 # Savee Animation Study
 
 A Flutter project that brings the image browsing animations from the original Savee mobile app to life. I focused on the small details that make opening an image and returning to the feed feel smooth.
@@ -5,10 +7,8 @@ A Flutter project that brings the image browsing animations from the original Sa
 ## Demo
 
 <div>
-  <video controls playsinline width="360" src="record.MP4"></video>
+  <div><video controls src="https://github.com/user-attachments/assets/ec0223a9-4c8b-40f4-ab4c-4434a605dd60" muted="false"></video></div>
 </div>
-
-[Watch the recording](record.MP4)
 
 <!-- For GitHub's inline video preview, upload record.MP4 through the GitHub editor and replace the video src above with the attachment URL. -->
 
